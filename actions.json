@@ -1,0 +1,13 @@
+{
+  "name": "action-repository",
+  "description": "A collection of self-contained, engineered actions for AI agents. Each action is an Agent Skills-compatible skill.",
+  "actions": [
+    {
+      "name": "clone-git-repo",
+      "description": "Clone any remote git repository (HTTPS/SSH) into a local folder, with retries on SSL failure and safe handling of existing folders.",
+      "path": "clone-git-repo",
+      "entry_point": "clone-git-repo/SKILL.md",
+      "source_of_truth": "clone-git-repo/action.md"
+    }
+  ]
+}
