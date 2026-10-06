@@ -24,7 +24,7 @@ An action is deliberately distinguished from a skill. A skill generally describe
 
 This distinction does not imply that skills are irrelevant. A performer may possess skills that enable successful execution of an action, and repeated successful execution of actions may provide evidence of action-specific competency. However, skill is not the primary organizational unit of UAR. The action is.
 
-An action is also distinct from a tool, model, algorithm, or implementation. The same action may be performed using different tools, models, algorithms, procedures, or combinations of human and AI capabilities. For example, an action such as extracting dates from a document can potentially be performed manually, by an AI agent, through an OCR system, through a language model, or through a human–AI collaboration. These different implementations do not necessarily constitute different actions when they realize the same operational requirement and intended outcome.
+An action is also distinct from a tool, model, algorithm, or implementation. The same action may be performed using different tools, models, algorithms, procedures, or combinations of human and AI capabilities. For example, an action such as extracting dates from a document can potentially be performed manually, by an AI agent, or through a human–AI collaboration. These different implementations do not necessarily constitute different actions when they realize the same operational requirement and intended outcome.
 
 UAR therefore separates **what needs to be done** from **how, by whom, and with which implementation it is performed**.
 
