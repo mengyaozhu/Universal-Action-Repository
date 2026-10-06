@@ -2,11 +2,11 @@
 
 **Reusable, evolving actions for human–AI task execution.**
 
-**Universal Action Repository (UAR)** is a growing repository of reusable actions with specifications for agent discovery and execution. UAR is based on an action-centered view of task execution in which **actions, rather than skills, tools, models, or particular execution implementations, are treated as the fundamental operational units for accomplishing tasks**.
+**Universal Action Repository (UAR)** is a **growing repository of reusable actions** with specifications for agent discovery and execution. UAR is based on an **action-centered view of task execution** in which actions, rather than skills, tools, models, or particular execution implementations, are treated as the fundamental operational units for accomplishing tasks.
 
 UAR is designed for human–AI collaborative task execution. An action can be executed by an agentic AI, a human, or a human–AI collaborative configuration. The identity of an action is therefore not defined by who performs it, which model performs it, which tool is used, or how it is technically implemented. Instead, an action is defined by the operational activity it represents, the requirements under which it can be performed, and the intended outcome it produces.
 
-The long-term goal of UAR is to provide an accumulating inventory of reusable actions that can support a theoretically open-ended range of user-defined tasks. Existing actions can be applied directly when they adequately satisfy a task requirement, or they can be contextualized, integrated, composed, customized, constructed, or engineered when the requirements of a particular task cannot be adequately satisfied by the existing action in its standard form.
+The long-term goal of UAR is to provide an **accumulating inventory of reusable actions** that can support a theoretically open-ended range of user-defined tasks. Existing actions can be applied directly when they adequately satisfy a task requirement, or they can be contextualized, integrated, composed, customized, constructed, or engineered when the requirements of a particular task cannot be adequately satisfied by the existing action in its standard form.
 
 ## From Tasks to Actions
 
